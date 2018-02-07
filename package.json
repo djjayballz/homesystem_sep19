@@ -1,0 +1,12 @@
+{
+    "name": "node-red-mqtt-telegram",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "telegram_mqtt_git.json",
+            "credentialsFile": "telegram_mqtt_git_cred.json"
+        }
+    }
+}
