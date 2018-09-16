@@ -1,4 +1,4 @@
-node-red-mqtt-telegram
+Homesystem mit MQTT-Sensoren, Telegram-Bot und OWM-Api
 ======================
 
 ### About
