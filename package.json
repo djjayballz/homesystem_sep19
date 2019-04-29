@@ -10,7 +10,8 @@
         "node-red-dashboard": "2.9.8",
         "node-red-node-openweathermap": "0.2.1",
         "node-red-node-smooth": "0.1.0",
-        "node-red-contrib-persist": "1.0.3"
+        "node-red-contrib-persist": "1.0.3",
+        "node-red-contrib-web-worldmap": "1.5.23"
     },
     "node-red": {
         "settings": {
