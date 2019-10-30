@@ -7,7 +7,7 @@
         "node-red-contrib-counter": "0.1.5",
         "node-red-contrib-edge-trigger": "0.1.5",
         "node-red-contrib-interval-length": "0.0.2",
-        "node-red-dashboard": "2.9.8",
+        "node-red-dashboard": "2.17.1",
         "node-red-node-openweathermap": "0.2.1",
         "node-red-node-smooth": "0.1.0",
         "node-red-contrib-persist": "1.0.3",
